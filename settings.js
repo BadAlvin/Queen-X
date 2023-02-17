@@ -15,25 +15,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94719225807'] //ur owner number
-global.ownername = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur owner name
-global.ytname = "CYBER JOHN" //ur yt chanel name
-global.socialm = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur github or insta name
+global.owner = ['94784828441'] //ur owner number
+global.ownername = "ＢＡＤ ＡＬＶＩＮ ＢＯＴ" //ur owner name
+global.ytname = "BAD ALVIN YT" //ur yt chanel name
+global.socialm = "𝘽𝘼𝘿 𝘼𝙇𝙑𝙄𝙉" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
 
 global.session = "YXF5RWYwZ0I=" //session Id 
-global.ownernomer = "94719225807" //ur number
-global.premium = ['94719225807'] //ur premium number
-global.botname = '94719225807' //ur bot name
-global.linkz = "https://chat.whatsapp.com/BtgxsRb4zI6DOPQGw1o0Hp" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/BtgxsRb4zI6DOPQGw1o0Hp" //ur website to be displayed
-global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
+global.ownernomer = "94784828441" //ur number
+global.premium = ['94784828441'] //ur premium number
+global.botname = '94784828441' //ur bot name
+global.linkz = "https://youtube.com/channel/UC-VBAbxLNILYiz_DnitaKnQ" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UC-VBAbxLNILYiz_DnitaKnQ" //ur website to be displayed
+global.botscript = 'https://github.com/sandusha1/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
-global.packname = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur sticker watermark packname
-global.author = "ＱＵＥＥＮ-Ｘ ＢＯＴ\n\n\nA whatsapp bot developed by\n   👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur sticker watermark author
-global.wm = "ＱＵＥＥＮ-Ｘ ＢＯＴ." //ur watermark
+global.packname = "𝐁𝐘 ꜱᴀɴᴅᴜꜱʜᴀ ᴋᴀᴡꜱʜᴀʟʏᴀ" //ur sticker watermark packname
+global.author = "𝘽𝘼𝘿 𝘼𝙇𝙑𝙄𝙉\n\n\nA whatsapp bot developed by\n🏻 𝘽𝘼𝘿 𝘼𝙇𝙑𝙄𝙉" //ur sticker watermark author
+global.wm = "𝘽𝘼𝘿 𝘼𝙇𝙑𝙄𝙉." //ur watermark
 
 // Other
 global.sessionName = 'session'
