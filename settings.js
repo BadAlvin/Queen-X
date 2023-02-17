@@ -16,7 +16,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['94784828441'] //ur owner number
-global.ownername = "ＢＡＤ ＡＬＶＩＮ ＢＯＴ" //ur owner name
+global.ownername = "ꜱᴀɴᴅᴜꜱʜᴀ ᴋᴀᴡꜱʜᴀʟʏᴀ" //ur owner name
 global.ytname = "BAD ALVIN YT" //ur yt chanel name
 global.socialm = "𝘽𝘼𝘿 𝘼𝙇𝙑𝙄𝙉" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -50,8 +50,8 @@ global.mess = {
     group: '*👸🏻💭Features Used Only For Groups!*',
     private: '*👸🏻💭Features Used Only For Private Chat!*',
     bot: '*👸🏻💭This feature could be used by bot only*',
-    wait: '*👸🏻💭Please wait...*',
-    linkm: '*👸🏻💭Where is the link?*',
+    wait: '*👸🏻💭පොඩ්ඩක් ඉන්න...*',
+    linkm: '*👸🏻💭link එක කොහෙද?*',
     endLimit: '*👸🏻💭Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours*',
     nsfw: '*👸🏻💭The nsfw feature has not been activated, please contact the admin to activate*',
 }
